@@ -42,9 +42,3 @@ jobs:
          docker build -t ghcr.io/h0lonar/380-node-2-app:1.0 python/
 
          docker push ghcr.io/h0lonar/380-python-2-app:1.0
-
-      - name:  Run a multi-line script
-      
-
-         
-
