@@ -44,8 +44,7 @@ jobs:
          docker push ghcr.io/h0lonar/380-python-2-app:1.0
 
       - name:  Run a multi-line script
-            echo Add other actions to build
-            echo test, and deploy your project
+      
 
          
 
