@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY main.ry .
 
-ENTRYPOINT ["python", "main."]
+ENTRYPOINT ["python", "main.py"]
